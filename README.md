@@ -1,0 +1,1 @@
+# bytescoutbarcode_js
