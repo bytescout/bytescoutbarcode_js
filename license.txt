@@ -1,0 +1,53 @@
+Agreement
+ByteScout ("ByteScout") provides bytescoutbarcode128.js (filename may vary) script for Javascript, and optionally purchased source code ("Source Code"), and licenses its use for you ("Customer"). Customer agrees to all the terms and conditions of this agreement.
+
+License Grant
+ByteScout hereby grants to Customer a non transferable and non exclusive License to use Software in accordance with the terms and conditions of this agreement.
+
+Copyright
+This Software is protected by United States copyright laws and international treaty provisions. ByteScout retains ownership of Software. ByteScout owns title and copyright to Software and accompanying documentation just as any copies made by Customer. Unauthorized copying of Software or the documentation will result in automatic termination of this license.
+
+Entire Agreement
+This document constitutes the entire agreement between ByteScout and Customer and may only be modified by a written document signed by both parties. Neither ByteScout nor Customer is bound by any oral agreement or presentation.
+
+I. Terms and Conditions
+
+A. ByteScout authorizes Customer to install and use Software for commercial and for non-commercial (not for profit) use on any number of web-sites and web-servers;
+
+B. Customer may not lease, rent, or resell Software or any derivative product which competes directly or indirectly with Software without prior written agreement of ByteScout.
+
+C. ByteScout does authorize customer to modify Software Source Code and appreciates if Customer provides all modifications back to ByteScout
+
+D. ByteScout reserves the right to modify Software without regard to Customer's own modifications or usage.
+
+II. Limited Warranty
+
+A. BYTESCOUT MAKES NO WARRANTIES OR REPRESENTATIONS, EXPRESS OR IMPLIED, IN FACT OR LAW, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. BYTESCOUT DOES NOT WARRANT THAT THE OPERATION OF SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE.
+
+B. CUSTOMER AGREES THAT ALL WARRANTIES ARE IMMEDIATELY NULL AND VOID IN THE EVENT OF MODIFICATION OR ALTERATION OF SOFTWARE.
+
+III. Limitation of Liability
+
+NOTWITHSTANDING THE FORM (E.G. CONTRACT, NEGLIGENCE OR OTHERWISE) IN WHICH ANY LEGAL OR EQUITABLE ACTION MAY BE BROUGHT AGAINST BYTESCOUT, BYTESCOUT WILL NOT BE LIABLE FOR DAMAGES WHICH EXCEED THE AMOUNT OF THE LICENSE FEES PAID BY CUSTOMER FOR SOFTWARE. IN NO EVENT WILL BYTESCOUT BE LIABLE FOR ANY DAMAGES, WHETHER ARISING FROM TORT OR CONTRACT, INCLUDING LOSS OF DATA, LOST PROFITS, COST OF COVER OR OTHER SPECIAL, INCIDENTAL, CONSEQUENTIAL OR INDIRECT DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE SOFTWARE OR ACCOMPANYING DOCUMENTATION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY. THIS LIMITATION WILL APPLY EVEN IF BYTESCOUT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. CUSTOMER ACKNOWLEDGES THAT THE LICENSE FEE REFLECTS THIS ALLOCATION OF RISK.
+
+IV. Governing Law
+
+This Agreement will be construed, interpreted and governed by the laws of United States.
+
+All trademarks are the sole property of their respective owners.
+
+Customer: _________________________ Date: ________
+(Signature)
+
+______________________________________
+(Print Name)
+
+Address:
+______________________________________
+
+______________________________________
+
+______________________________________
+
+Email Address: ______________________________________
+
